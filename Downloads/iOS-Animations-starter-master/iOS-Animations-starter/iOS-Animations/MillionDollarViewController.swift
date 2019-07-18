@@ -1,8 +1,13 @@
-// TESTANDO O GIT
+
+// TESTANDO O GIT, testando paulo, blablabla débora
+
+// TESTANDO O GIT, testando paulo, mergeFernanda
+
 //teste Paulo
 //teste fernanda
 // teste 2 débora
 // teste bruno
+<<<<<<< HEAD
 
 
 
@@ -23,3 +28,7 @@
 //hhuiuihuihi
 //hugdtrsfgvhjhj
 //hjkjkjijijknhij
+=======
+// alterei (débora)
+// asejgsndfjgshtl
+>>>>>>> master
