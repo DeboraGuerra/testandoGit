@@ -7,7 +7,7 @@
 //teste fernanda
 // teste 2 débora
 // teste bruno
-<<<<<<< HEAD
+
 
 
 
@@ -28,7 +28,7 @@
 //hhuiuihuihi
 //hugdtrsfgvhjhj
 //hjkjkjijijknhij
-=======
+
 // alterei (débora)
 // asejgsndfjgshtl
->>>>>>> master
+
